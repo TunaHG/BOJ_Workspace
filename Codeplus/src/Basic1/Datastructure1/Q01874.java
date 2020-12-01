@@ -3,7 +3,7 @@ package Basic1.Datastructure1;
 import java.util.Stack;
 import java.util.Scanner;
 
-public class Q1874 {
+public class Q01874 {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

@@ -8,7 +8,7 @@ import java.io.OutputStreamWriter;
 import java.util.Stack;
 
 // Scanner 쓰면안됨 + System.out.print 쓰면안됨
-public class Q1406 {
+public class Q01406 {
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
